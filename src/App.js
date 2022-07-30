@@ -61,17 +61,6 @@ function App() {
           ))}
         </div>
       </div>
-      <amp-ad
-        width="100vw"
-        height="320"
-        type="adsense"
-        data-ad-client="ca-pub-3254440158856145"
-        data-ad-slot="3237314844"
-        data-auto-format="rspv"
-        data-full-width=""
-      >
-        <div overflow=""></div>
-      </amp-ad>
     </div>
   )
 }
