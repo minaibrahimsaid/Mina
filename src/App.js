@@ -24,8 +24,8 @@ function App() {
           Click Here
         </a>
         <div className="card-list">
-          {websites.map(({ url, name, desc, images, github }) => (
-            <div className="card">
+          {websites.map(({ url, name, desc, images, github } , index) => (
+            <div className="card" key={index}>
               <div className="card-header">
                 <span className="card-title">{name}</span>
                 <span className="card-desc">{desc}</span>

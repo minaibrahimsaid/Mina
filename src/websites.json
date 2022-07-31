@@ -7,18 +7,10 @@
     "images": ["/img/to-do.gif" , "/img/todo.png"]
   },
   {
-    "url": "https://minaibrahimsaid.github.io/crazy-to-do-list/",
-    "name": "To-do list",
-    "github": "https://github.com/minaibrahimsaid/crazy-to-do-list",
-    "desc": "it’s a list of tasks you need to complete or things that you want to do. ",
-    "images": ["/img/to-do.gif", "/img/todo.png"]
-  },
-
-  {
-    "url": "https://minaibrahimsaid.github.io/crazy-to-do-list/",
-    "name": "To-do list",
-    "github": "https://github.com/minaibrahimsaid/crazy-to-do-list",
-    "desc": "it’s a list of tasks you need to complete or things that you want to do. ",
-    "images": ["/img/to-do.gif", "/img/todo.png"]
+    "url": "https://memory-game-eight-omega.vercel.app/",
+    "name": "Memory Game",
+    "github": "https://github.com/minaibrahimsaid/memory-game",
+    "desc": "it’s a memory game :)",
+    "images": ["/img/memory-game.gif"]
   }
 ]
