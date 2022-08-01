@@ -4,7 +4,7 @@
     "name": "To-do list",
     "github": "https://github.com/minaibrahimsaid/crazy-to-do-list",
     "desc": "it’s a list of tasks you need to complete or things that you want to do. ",
-    "images": ["/img/to-do.gif" , "/img/todo.png"]
+    "images": ["/img/to-do.gif", "/img/todo.png"]
   },
   {
     "url": "https://memory-game-eight-omega.vercel.app/",
@@ -12,5 +12,12 @@
     "github": "https://github.com/minaibrahimsaid/memory-game",
     "desc": "it’s a memory game :)",
     "images": ["/img/memory-game.gif"]
+  },
+  {
+    "url": "https://color-rcds1col5-intminamakar-gmailcom.vercel.app/",
+    "name": "Color Game",
+    "github": "https://github.com/minaibrahimsaid/color",
+    "desc": "it’s a coloring game :)",
+    "images": ["/img/color.gif", "/img/color.png"]
   }
 ]
